@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://sondos-ai.ai"
+    "url": "https://sondes-ai.com"
   }, {
     "name": "Support",
-    "url": "https://sondos-ai.ai/contact"
+    "url": "https://sondes-ai.com/contact"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.sondos-ai.ai"
+    "url": "https://app.sondes-ai.com"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -317,7 +317,7 @@
     "linkedin": "https://www.linkedin.com/company/sondos-ai-ai"
   },
   "api": {
-    "baseUrl": "https://app.sondos-ai.ai/api/",
+    "baseUrl": "https://app.sondes-ai.com/api/",
     "auth": {
       "method": "bearer"
     }
