@@ -317,7 +317,7 @@
     "linkedin": "https://www.linkedin.com/company/sondos-ai"
   },
   "api": {
-    "baseUrl": "https://app.sondes-ai.com/api/",
+    "baseUrl": "https://app.siyadah.tn/api/",
     "auth": {
       "method": "bearer"
     }
