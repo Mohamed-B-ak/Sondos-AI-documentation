@@ -306,7 +306,7 @@
     "linkedin": "https://www.linkedin.com/company/sondos-ai"
   },
   "api": {
-    "baseUrl": "https://app.sondos-ai.com/api/",
+    "baseUrl": "https://app.siyadah-ai.tn/api/",
     "auth": {
       "method": "bearer"
     }
