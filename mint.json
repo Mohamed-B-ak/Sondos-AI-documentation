@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://app.siyadah-ai.tn/"
+    "url": "https://app.sondos-ai.com/"
   }, {
     "name": "Support",
-    "url": "https://siyadah-ai.tn/about"
+    "url": "https://sondos-ai.com/about"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.siyadah-ai.tn/"
+    "url": "https://app.sondos-ai.com/"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -306,7 +306,7 @@
     "linkedin": "https://www.linkedin.com/company/sondos-ai"
   },
   "api": {
-    "baseUrl": "https://app.siyadah-ai.tn/api/",
+    "baseUrl": "https://app.sondos-ai.com/api/",
     "auth": {
       "method": "bearer"
     }
