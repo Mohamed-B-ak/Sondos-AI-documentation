@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://app.sondos-ai.com/"
+    "url": "https://app.siyadah-ai.tn/"
   }, {
     "name": "Support",
-    "url": "https://sondos-ai.com/about"
+    "url": "https://siyadah-ai.tn/about"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.sondos-ai.com/"
+    "url": "https://app.siyadah-ai.tn/"
   },
   "anchors": [{
     "name": "No-Code Automation",
