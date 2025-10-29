@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://sondes-ai.com"
+    "url": "https://sondos-ai.com/"
   }, {
     "name": "Support",
-    "url": "https://sondes-ai.com/contact"
+    "url": "https://sondos-ai.com/about"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.sondes-ai.com"
+    "url": "https://sondos-ai.com/"
   },
   "anchors": [{
     "name": "No-Code Automation",
