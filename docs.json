@@ -310,7 +310,7 @@
   },
   "api": {
     "mdx": {
-      "server": "https://app.sondos-ai.com/api/",
+      "server": "https://app.sondos-ai.com/api",
       "auth": {
         "method": "bearer"
       }
