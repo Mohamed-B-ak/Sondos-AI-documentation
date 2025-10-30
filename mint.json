@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Autocalls",
+  "name": "sondos-ai",
   "logo": {
     "dark": "/resources/logo/dark.png",
     "light": "/resources/logo/light.png"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#06df4b",
-    "light": "#06df4b",
-    "dark": "#65fe50",
+    "primary": "#9115AB",
+    "light": "#9115AB",
+    "dark": "#9115AB",
     "anchors": {
-      "from": "#01df4a",
-      "to": "#65fe50"
+      "from": "#9115AB",
+      "to": "#9115AB"
     }
   },
   "topAnchor": {
@@ -24,14 +24,14 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://autocalls.ai"
+    "url": "https://app.sondos-ai.com/"
   }, {
     "name": "Support",
-    "url": "https://autocalls.ai/contact"
+    "url": "https://sondos-ai.com/about"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://app.autocalls.ai"
+    "url": "https://app.sondos-ai.com/"
   },
   "anchors": [{
     "name": "No-Code Automation",
@@ -57,7 +57,7 @@
   "navigation": [{
       "group": "Introduction",
       "pages": [
-        "introduction/what-is-autocalls",
+        "introduction/what-is-sondos-ai",
         "introduction/how-it-works",
         "introduction/key-terminology"
       ]
@@ -110,14 +110,6 @@
         "leads/index",
         "leads/managing-leads",
         "leads/importing-leads"
-      ]
-    },
-    {
-      "group": "Custom Dashboards",
-      "icon": "chart-line",
-      "pages": [
-        "custom-dashboards/overview",
-        "custom-dashboards/widget-types"
       ]
     },
     {
@@ -255,16 +247,6 @@
       ]
     },
     {
-      "group": "Mid Call Tools",
-      "pages": [
-        "api-reference/mid-call-tools/get-tools",
-        "api-reference/mid-call-tools/get-tool",
-        "api-reference/mid-call-tools/create-tool",
-        "api-reference/mid-call-tools/update-tool",
-        "api-reference/mid-call-tools/delete-tool"
-      ]
-    },
-    {
       "group": "Leads",
       "pages": [
         "api-reference/leads/get-lead",
@@ -307,23 +289,12 @@
     {
       "group": "Calls Related",
       "pages": [
-        "automation-platform/calls-related/autocalls-tool",
+        "automation-platform/calls-related/sondos-ai-tool",
         "automation-platform/calls-related/common-integrations",
         "automation-platform/calls-related/sms-capabilities"
       ]
     },
-    {
-      "group": "Tutorials",
-      "pages": [
-        "automation-platform/tutorials/outbound-form-call",
-        "automation-platform/tutorials/inbound-context-injection",
-        "automation-platform/tutorials/gohighlevel-leads-automation",
-        "automation-platform/tutorials/google-sheets-sync",
-        "automation-platform/tutorials/post-call-sms-automation",
-        "automation-platform/tutorials/google-sheets-qualified-leads",
-        "automation-platform/tutorials/post-call-email-automation"
-      ]
-    },
+
     {
       "group": "Platform updates",
       "pages": [
@@ -332,10 +303,10 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/autocalls-ai"
+    "linkedin": "https://www.linkedin.com/company/sondos-ai"
   },
   "api": {
-    "baseUrl": "https://app.autocalls.ai/api/",
+    "baseUrl": "https://app.sondos-ai.com/api/",
     "auth": {
       "method": "bearer"
     }
